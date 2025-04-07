@@ -1,9 +1,10 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Montserrat", sans-serif;
     background-color: #f2f2f2;
     color: #111;
     margin: 0;
     padding: 0;
+    
   }
   
   header {
@@ -62,4 +63,5 @@ body {
     padding: 15px 10px;
     font-size: 14px;
   }
+
   
